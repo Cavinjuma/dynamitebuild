@@ -1,4 +1,4 @@
-Dynamite Building – Responsive Website
+Jenga Construction – Responsive construction Website
 
 A modern, responsive single-page website for a construction company, matching the provided UI screenshots and improving accessibility and interactions.
 
